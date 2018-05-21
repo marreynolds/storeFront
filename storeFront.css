@@ -9,7 +9,7 @@ header{
     background-image: url('./assets/lemons.jpg');
     height: 200px;
     background-size: 70em;
-    /* width: 100%; */
+    width: 100%;
     padding: 13px;
     margin: -10px;
 }
